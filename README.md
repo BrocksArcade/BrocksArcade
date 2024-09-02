@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Brock
-- 👀 I’m interested in Game Development with Unreal engine 
-- 🌱 I’m currently learning Unreal engine and BBA CA Course
-- 💞️ I’m looking to work upon any Game development project using Unreal either from Scratch or Improvement
-- 📫 How to reach me ? Comment on my YT channel Called BrocksGaming
+- 👀 I’m interested in Game Development and Android Apps Development 
+- 🌱 I’m currently pursuring Masters of Computer Applications - 2024
+- 💞️ I’m looking to work upon any Application or Games you may have
+- 📫 How to reach me ? here is my email - brocksbrawlstars@gmail.com you can also find me at discord - BROCK#2255
 
 <!---
 BrocksArcade is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
