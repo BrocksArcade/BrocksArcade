@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Brock
-- 👀 I’m interested in Game Development and Android Apps Development 
+- 👀 I’m interested in Software development
 - 🌱 I’m currently pursuring Masters of Computer Applications - 2024
 - 💞️ I’m looking to work upon any Application or Games you may have
 - 📫 How to reach me ? here is my email - brocksbrawlstars@gmail.com you can also find me at discord - BROCK#2255
